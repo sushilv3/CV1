@@ -1,7 +1,7 @@
 
-<p style="text-align: center; font-size:16px;font-weight:bold"> Resume</p>
+### Resume
 
-Sushil Kumar Verma </br>
+#### Sushil Kumar Verma
 **Address :**  Ho.No. E-602,         Sector-I, LDA Colony Kanpur Road Lucknow,Uttar Pradesh.       
 **Pin :** 226012                                
 **Phone : +91** - 9044477586
@@ -10,12 +10,11 @@ Sushil Kumar Verma </br>
 </br>
 **Github :** https://github.com/sushilv3
 
-<p style="font-size:14px; font-weight:bold"> Objective -
-</p>
+#### Objective -
+
 To work for organization which provides me the best opportunity to improve my skills and knowledge to grow along the organizational objectives.
 
-<p style="font-size:14px; font-weight:bold"> Professional Experience
-</p>
+#### Professional Experience
 
 * Overall 2 years 4months of experience in development of Web & Enterprise applications using JAVA, J2EE Technologies.
 * Working with kodecamp from 6 Oct 2017 to till date.
@@ -24,7 +23,7 @@ To work for organization which provides me the best opportunity to improve my sk
 * Knowledge of Eclipse tool for the development of Java projects.
 * Hands on experience Tomcat 9 and Tomee 8 web servers.
 
-<p style="text-align: left; font-size:14px;font-weight:bold"> 1. Kodecamp.in, Allahabad &emsp;&emsp;&emsp;&emsp; (6 jan 2018 -Present)  </p> 
+#### 1. Kodecamp.in, Allahabad &emsp;&emsp;&emsp;&emsp; (6 jan 2018 -Present) 
 
 **Type Of Job :**  Permanent
 
@@ -41,7 +40,7 @@ Databases:MySql , h2
 **Web / Application Server :** Tomcat 9, Tomee 8.
 **Dev Tools :** IDE(Eclipse, VSCode, Sublime Text), Github(Version Control System), Maven (Build Tools)
 
-<p style="font-size:14px; font-weight:bold">Project Details</p>
+#### Project Details</p>
 
 **Project Name :** iSchool
 
@@ -55,7 +54,7 @@ iSchool is a multi interconnected modules which automates all of schools operati
 * Communicates project needs to client and internal employer personnel to ensure quality and timely
 * Involved in the full life cycle of software design process of project, including prototyping, proof of concepts, design, interface implementation, testing and maintenance.
 
-<p style="text-align: left; font-size:14px;font-weight:bold"> 2. Kodecamp.in, Allahabad &emsp;&emsp;&emsp;&emsp; (5 sep 2017 to 5 jan 2018)  </p> 
+#### 2. Kodecamp.in, Allahabad &emsp;&emsp;&emsp;&emsp; (5 sep 2017 to 5 jan 2018)  
 
 **Type Of Job :**  Internship
 * Training On Web Application Development in Java/JEE.
@@ -76,7 +75,7 @@ iSchool is a multi interconnected modules which automates all of schools operati
   * Authentication/ Session Management: Implemented it by using MYController(Request Interceptor).
   * Manual Integration Testing against the initial requirements and UI Mockups.
 
-<p style="text-align: left; font-size:14px;font-weight:bold"> 3. Syrex  Infoservices(INDIA) Pvt. Ltd. &emsp;&emsp;&emsp;&emsp; (1st Dec2013 to 1st may 2017)  </p>
+#### 3. Syrex  Infoservices(INDIA) Pvt. Ltd. &emsp;&emsp;&emsp;&emsp; (1st Dec2013 to 1st may 2017)  </p>
 
 **Type Of Job :** Permanent
 
@@ -89,7 +88,7 @@ iSchool is a multi interconnected modules which automates all of schools operati
 * Team Handling.
 * Providing training on platform and software products.
 
-<p style="text-align: left; font-size:14px;font-weight:bold"> Education  </p>
+#### Education
 
 **Professional Qualification :**
 * Pursuing MCA from IGNOU.
