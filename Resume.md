@@ -29,14 +29,14 @@ To work for organization which provides me the best opportunity to improve my sk
 
 **Technical Skill** 
       
-**Operating Systems :** Linux(Ubuntu).
+**Operating Systems :** Linux(Ubuntu).</br>
 **Programming Languages :** Java 8, Php 7.2 (Basic), JavaScript
-Databases:MySql , h2
-
-**Web/Enterprise Technologies :** JEE 8(JSF / Prime Faces,CDI 2.0,EJB 3.2, JPA 2.1,JAXRS 2),  JAX-RS,CXF(JSR-250, JSR-330), AOP, Spring Boot 2.2, Spring MVC 5, Thymleaf 3
-
+Databases:MySql , h2.
+</br>
+**Web/Enterprise Technologies :** JEE 8(JSF / Prime Faces,CDI 2.0,EJB 3.2, JPA 2.1,JAXRS 2),  JAX-RS,CXF(JSR-250, JSR-330), AOP, Spring Boot 2.2, Spring MVC 5, Thymleaf 3.
+</br>
 **Authentication & Authorization :** Keycloak.
-
+</br>
 **Web / Application Server :** Tomcat 9, Tomee 8.
 **Dev Tools :** IDE(Eclipse, VSCode, Sublime Text), Github(Version Control System), Maven (Build Tools)
 
@@ -75,11 +75,11 @@ iSchool is a multi interconnected modules which automates all of schools operati
   * Authentication/ Session Management: Implemented it by using MYController(Request Interceptor).
   * Manual Integration Testing against the initial requirements and UI Mockups.
 
-#### 3. Syrex  Infoservices(INDIA) Pvt. Ltd. &emsp;&emsp;&emsp;&emsp; (1st Dec2013 to 1st may 2017)  </p>
+#### 3. Syrex  Infoservices(INDIA) Pvt. Ltd. &emsp;&emsp;&emsp;&emsp; (1st Dec 2013 to 1st may 2017)
 
 **Type Of Job :** Permanent
 
-**Job Duration -**  3year 11month
+**Job Duration -**  3year 4month
 **Job profile -**  IT Lead
 
 **responsibilities -** 
