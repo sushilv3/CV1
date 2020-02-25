@@ -16,18 +16,18 @@ To work for organization which provides me the best opportunity to improve my sk
 
 #### Professional Experience
 
-* Overall 2 years 4months of experience in development of Web & Enterprise applications using JAVA, J2EE Technologies.
-* Working with kodecamp from 6 Oct 2017 to till date.
+* Overall 2 years 4 months of experience in development of Web & Enterprise applications using JAVA, J2EE Technologies.
+* Working with kodecamp from 6 Oct 2017 till date.
 * Hands on experience in Core Java8, Servlets, JDBC, JPA, JSF, JEE platforms.
 * Object Oriented analysis and design using common design patterns.
 * Knowledge of Eclipse tool for the development of Java projects.
-* Hands on experience Tomcat 9 and Tomee 8 web servers.
+* Hands on experience in Tomcat 9 and Tomee 8 web servers.
 
 #### 1. Kodecamp.in, Allahabad &emsp;&emsp;&emsp;&emsp; (6 jan 2018 -Present) 
 
 **Type Of Job :**  Permanent
 
-**Technical Skill** 
+**Technical Skills** 
       
 **Operating Systems :** Linux(Ubuntu).</br>
 **Programming Languages :** Java 8, Php 7.2 (Basic), JavaScript
@@ -46,13 +46,13 @@ Databases:MySql , h2.
 **Project Name :** iSchool
 
 **Description :** 
-iSchool is a multi interconnected modules which automates all of schools operations (Admissions, Exams, Attendance,Time Table generation, Kids Learning, Fee Submission,Library Management, Educational Social Network etc) and academics process.
+iSchool is a multi interconnected module which automates all operations (Admissions, Exams, Attendance,Time Table generation, Kids Learning, Fee Submission,Library Management, Educational Social Network etc) related to school and academic process.
 
 **Responsibilities :** 
 
 * Working as a part of iSchool Project from scratching to the development.
 * Write well designed, testable, efficient code.
-* Communicates project needs to client and internal employer personnel to ensure quality and timely
+* Communicates project needs from client and internal employer personnel to ensure quality and within the given deadline.
 * Involved in the full life cycle of software design process of project, including prototyping, proof of concepts, design, interface implementation, testing and maintenance.
 
 #### 2. Kodecamp.in, Allahabad &emsp;&emsp;&emsp;&emsp; (5 sep 2017 to 5 jan 2018)  
@@ -63,8 +63,8 @@ iSchool is a multi interconnected modules which automates all of schools operati
 
 **Responsibilities :** 
 
-* Requirements  gathering and wireframe creation.
-* Development Machine setup by using the official documentaion of the decided technologies.
+* Requirement gathering and wireframe creation.
+* Machine setup by using the official documentaion of the decided technologies.
 * UI/UX Creation by using HTML and CSS.
 * Creation theme file by using CSS variables.
 * Domain specific entities and relationship between entities determination from UI mockups(static files).
