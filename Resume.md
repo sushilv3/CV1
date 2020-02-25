@@ -80,7 +80,7 @@ iSchool is a multi interconnected module which automates all operations (Admissi
 
 **Type Of Job :** Permanent
 
-**Job Duration -**  3year 4month
+**Job Duration -**  3 years 4 months
 **Job profile -**  IT Lead
 
 **responsibilities -** 
