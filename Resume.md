@@ -35,8 +35,11 @@ Databases:MySql , h2.
 **Web/Enterprise Technologies :** AOP, Spring Boot 2.2, Spring MVC 5, Thymleaf 3, JPA, Rest Service.
 
 </br>
+
 **Web / Application Server :** Tomcat 9, Tomee 8.
+
 </br>
+
 **Dev Tools :** IDE(Eclipse, VSCode, Sublime Text), Github(Version Control System), Maven (Build Tools)
 
 #### Project Details</p>
@@ -44,7 +47,7 @@ Databases:MySql , h2.
 **Project Name :** truSchoolCare
 
 **Description :** 
-iSchool is a multi interconnected module which automates all operations (Admissions, Exams, Attendance,Time Table generation, Kids Learning, Fee Submission,Library Management, Educational Social Network etc) related to school and academic process.
+truSchoolCare is a multi interconnected module which automates all operations (Admissions, Exams, Attendance,Time Table generation, Kids Learning, Fee Submission,Library Management, Educational Social Network etc) related to school and academic process.
 
 **Responsibilities :** 
 
